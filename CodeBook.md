@@ -27,3 +27,6 @@
 - train/Inertial Signals/body_acc_x_train.txt
 - train/Inertial Signals/body_gyro_x_train.txt
 
+#Transformation
+All the values are calculated means, aggregated over 30 subjects and 6 activities. Therefore the data sets dimensions are 180 by 68.  
+
